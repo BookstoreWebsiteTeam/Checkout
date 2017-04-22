@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.lang.*;
 
 public class checkoutAddressClasses {
-
+    //Chris
     Scanner input = new Scanner(System.in);
 
     public String nameInput() {
